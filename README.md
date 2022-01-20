@@ -23,33 +23,21 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 - 🌱 I’m currently learning Machine Learning.
 - 😄 I’m currently interested about Computer Vision.
 
+### 💬 Languages
 
-## 💬 Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)![Latex](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Latex](https://img.shields.io/badge/-Latex-000000?style=flat&logo=latex)
+### 🛠 Tools
 
-## 🛠 Tools:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)<br />
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![Mysql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=mysql)<br />
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellijidea)
-![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm)
-![Webstorm](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
-![Visualstudio](https://img.shields.io/badge/-visual%20studio-000000?style=flat&logo=visualstudio)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)![Spring Boot](https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)![Visual Studio](https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 
 ## Github Overview
 
-<img align="left" alt="TF-Liu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&show_icons=true" />;
+<img align="left" alt="TF-Liu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&show_icons=true" />
