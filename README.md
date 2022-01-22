@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
@@ -34,6 +33,10 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Latex](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
+
+<div align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);std::cout%20<<%20%22Hello%2C%20World!%22;print(%22Hello%2C%20World!%22);document.write('Hello%2C%20World');&center=true">
+</div>
 
 ### 🛠 Tools
 
@@ -55,8 +58,10 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 
-### 📫 Github Overview
-
+### 📫 Github Overview   ![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
 <div align="center"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF-Liu&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF-Liu&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  
+### 🚀 Action
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TF-Liu&theme=xcode" /> </div>
