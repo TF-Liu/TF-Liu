@@ -60,8 +60,8 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 
 ### 📫 Github Overview   ![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
 <div align="center"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF-Liu&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF-Liu&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
   
 ### 🚀 Action
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TF-Liu&theme=xcode" /> </div>
