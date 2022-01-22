@@ -22,6 +22,8 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 - 🌱 I’m currently learning Machine Learning.
 - 😄 I’m currently interested about Computer Vision.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
+
 ### 💬 Languages
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
@@ -34,15 +36,11 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Latex](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);std::cout%20<<%20%22Hello%2C%20World!%22;print(%22Hello%2C%20World!%22);document.write('Hello%2C%20World');&center=true">
-</div>
 
 ### 🛠 Tools
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
@@ -58,7 +56,7 @@ I am Liu Tingfeng and I am 21 years old. I come from Jiangmen, Guangdong.
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 
-### 📫 Github Overview   ![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
+### 📫 Github Overview
 <div align="center"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TF-Liu&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TF-Liu&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
